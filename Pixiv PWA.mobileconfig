@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>ConsentText</key>
+<dict>
+<key>default</key>
+<string>Install this profile</string>
+</dict>
+ <key>PayloadContent</key>
+ <array>
+   <dict>
+     <key>FullScreen</key>
+     <true/>
+     <key>Icon</key>
+     <data>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</data>
+     <key>IsRemovable</key>
+     <true/>
+     <key>Label</key>
+     <string>pixiv</string>
+     <key>PayloadDescription</key>
+     <string>Adds a Web Clip.</string>
+     <key>PayloadDisplayName</key>
+     <string>Web Clip (pixiv)</string>
+     <key>PayloadIdentifier</key>
+     <string>pixiv-pwa-qx6ghqkz-9cd6af92-1129-42fd-b627-d486eb808433</string>
+     <key>PayloadOrganization</key>
+     <string>qx6ghqkz</string>
+     <key>PayloadType</key>
+     <string>com.apple.webClip.managed</string>
+     <key>PayloadUUID</key>
+     <string>c3b2c123-6253-464e-afde-0d987400da0f</string>
+     <key>PayloadVersion</key>
+     <integer>1</integer>
+     <key>Precomposed</key>
+     <false/>
+     <key>URL</key>
+     <string>https://www.pixiv.net</string>
+   </dict>
+ </array>
+ <key>PayloadDescription</key>
+ <string>Install pixiv as a Progressive Web App</string>
+ <key>PayloadDisplayName</key>
+ <string>Pixiv PWA</string>
+ <key>PayloadIdentifier</key>
+ <string>pixiv-pwa-qx6ghqkz-9cd6af92-1129-42fd-b627-d486eb808433</string>
+ <key>PayloadOrganization</key>
+ <string>qx6ghqkz</string>
+ <key>PayloadRemovalDisallowed</key>
+ <false/>
+ <key>PayloadType</key>
+ <string>Configuration</string>
+ <key>PayloadUUID</key>
+ <string>345097fb-d4f7-4a34-ab90-2e3f1ad62eed</string>
+ <key>PayloadVersion</key>
+ <integer>1</integer>
+</dict>
+</plist>
